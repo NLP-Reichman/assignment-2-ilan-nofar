@@ -8,8 +8,8 @@
     "train_data_length": 9521
   },
   "test_generate_vocabs": {
-    "vocab_size": 20505,
-    "num_tags": 19
+    "vocab_size": 19873,
+    "num_tags": 18
   },
   "test_hmm": {
     "precision": 0.79,
